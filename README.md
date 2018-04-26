@@ -1,6 +1,10 @@
 # LearnAngular
 Learning Angular Notes:
 
+https://github.com/mjschreier1/intro-to-angular
+
+https://www.youtube.com/watch?v=x6s8iV7Ur4I
+
 
 Angular 5 Breakout: Watch Michael’s break out video
 
